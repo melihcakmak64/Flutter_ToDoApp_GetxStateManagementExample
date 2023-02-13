@@ -1,3 +1,3 @@
-# flutter_application_1
+# Flutter ToDo App with GETX
 
-A new Flutter project.
+Getx state management kullanılarak yapılmış bir toDo uygulamasıdır.Local storage kullanılmamıştır.
